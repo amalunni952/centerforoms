@@ -1,4 +1,4 @@
-<script>
+ 
 
 (function () {
   var oldUrl = "https://gp-assets-1.growthplug.com/website_files/5120/Dentist_Huntersville_NC_logo.png";
@@ -24,4 +24,4 @@
   });
 })();
 
-</script>
+ 
